@@ -1,0 +1,8 @@
+{
+  "name": "Jet Black Estate",
+  "description": "A 5-bedroom architectural monolith in Lekki Phase 1 where double-height living, matte black facade, and warm light become one statement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
